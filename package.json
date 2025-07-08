@@ -1,0 +1,25 @@
+{
+  "name": "com.kkostenkov.amenity-crate",
+  "displayName": "Amenity Crate",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A crate of Unity scripts and tools for project development.",
+  "author": {
+    "name": "Kirill Kostenkov",
+    "url": "https://github.com/kkostenkov"
+  },
+  "license": "MIT",
+  "keywords": [
+    "unity",
+    "tools",
+    "amenity",
+    "crate",
+    "utility",
+    "scripts"
+  ],
+  "dependencies": {
+    "com.unity.addressables": "1.22.2",
+    "com.cysharp.unitask": "2.3.3",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
